@@ -2,7 +2,7 @@
   "name": "Portal de Nota Fiscal",
   "short_name": "Portal_NF",
   "description": "Portal para controle das Notas Fiscais e Pagamentos",
-  "start_url": "/NomeDoProjetoNoGit/app.html",
+  "start_url": "https://github.com/portalnotafiscal-oss/instalador",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4ed98a",
@@ -58,3 +58,4 @@
     }
   ]
 }
+
